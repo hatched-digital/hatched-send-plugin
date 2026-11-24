@@ -1,0 +1,10 @@
+{
+  "name": "hatched-send",
+  "version": "1.0.0",
+  "description": "Send email campaigns, manage audiences and set up the Hatched Send transactional email API from your AI assistant.",
+  "author": { "name": "Hatched Digital", "email": "hello@hatched.digital", "url": "https://hatched.digital" },
+  "homepage": "https://send.hatched.digital/connect",
+  "repository": "https://github.com/hatched-digital/hatched-send-plugin",
+  "license": "MIT",
+  "keywords": ["email", "marketing", "campaigns", "newsletter", "transactional", "mcp"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "hatched",
+  "owner": { "name": "Hatched Digital", "email": "hello@hatched.digital" },
+  "metadata": { "description": "Hatched Send for Claude Code", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "hatched-send",
+      "source": ".",
+      "description": "Hatched Send email marketing connector and skills",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": ["email", "marketing"]
+    }
+  ]
+}
